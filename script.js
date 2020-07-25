@@ -1,4 +1,4 @@
-var endDate  = new Date ("Jun 28, 19 05:00:00").getTime();
+var endDate  = new Date ("Jun 28, 21 05:00:00").getTime();
 
 var timer = setInterval(function() {
   let now= new Date().getTime();
