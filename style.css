@@ -1,0 +1,35 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+#timer{
+  color: #fff;
+  font-size: 4rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.label{
+  font-size: 2.5rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+  background-color: #59A96A
+}
+
+h2{
+  font-family: 'Poppins', sans-serif;
+  color:#FE4A49;
+  font-size: 3.5rem;
+}
+img{
+  height:200px;
+}
